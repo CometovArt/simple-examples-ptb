@@ -8,4 +8,4 @@ I tried to write the code as short and concise as possible, so it may lack impor
 ## Requirements
 *   `python-telegram-bot~=20.0`
 
-Если вы знаете русский язык, то так же можете вступить в наш чат и задать свой вопрос там.
+Если вы знаете русский язык, то так же можете [вступить в наш чат](https://t.me/pythontelegrambotru) и задать свой вопрос там.
